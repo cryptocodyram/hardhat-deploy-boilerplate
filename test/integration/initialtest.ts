@@ -20,6 +20,7 @@ interface Mock {
   TBC: Contract;
 }
 
+// test are dummy
 describe('UnifarmNFTManagerUpgradeableLock', () => {
   var mocks: Mock;
 

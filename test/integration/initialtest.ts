@@ -1,4 +1,4 @@
-import { waffle, upgrades, ethers } from 'hardhat';
+import { waffle, ethers } from 'hardhat';
 import chai, { expect } from 'chai';
 import { SignerWithAddress } from '@nomiclabs/hardhat-ethers/signers';
 import { Contract } from 'ethers';

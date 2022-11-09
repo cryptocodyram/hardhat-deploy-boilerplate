@@ -1,0 +1,13 @@
+node_modules
+.vscode
+.env
+coverage
+coverage.json
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+.openzeppelin
+deployments
+config/cohortConfig.ts

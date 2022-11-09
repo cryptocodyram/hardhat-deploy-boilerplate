@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "dist",
+      "allowSyntheticDefaultImports": true,
+      "allowJs": true,
+      "isolatedModules": true,
+      "noImplicitAny": false,
+      "resolveJsonModule": true,
+    },
+    "include": ["./deploy", "./test","./utilities","./scripts","./typechain"],
+    "files": ["./hardhat.config.ts"]
+  }
+  
